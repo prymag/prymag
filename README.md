@@ -2,5 +2,4 @@
 
 I'm a fullstack developer from the Philippines. 
 
-I have a passion for improving my craft and on this account you can see some of the work that I have been doing or experimenting on.
-
+This page contains some of the technologies that I am working on or exploring.
